@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science in specialization with AIML at Manav Rachna University.
 - 💼 &nbsp; Working as a Machine Learning Intern at Artificial Intelligence Workforce.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning, Azure and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Web development, Cloud Architecture, Machine Learning, Azure and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
